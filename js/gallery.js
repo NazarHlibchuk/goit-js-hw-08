@@ -64,7 +64,6 @@ const images = [
       },
     ];
     
-    // ... решта об'єктів
   
   const galleryContainer = document.querySelector('.gallery');
   
